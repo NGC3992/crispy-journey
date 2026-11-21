@@ -12,4 +12,6 @@ This script verifies the fact that line and surfaces integrals are actually just
 It checks the fact that as we decrease the size of the small unit length, dx, or unit area, dA, the deviation from the ideal value keeps decreasing.
 
 ## pendulum.py
-TK
+This program measures the time period of a simple pendulum numerically and analytically and compares the obtained vales to the standard value obtained by using the small angle approximation.
+
+We notice a slight deviation in the time period as the angle at which the pendulum is released is made larger.
